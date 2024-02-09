@@ -1,2 +1,3 @@
 # WSL-dev-setup
-Microsoft WSL based script to create and setup a Debian based machine for development.
+
+A script to create and setup a debian12-based machine for development on Microsoft WSL.
